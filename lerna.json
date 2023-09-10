@@ -1,0 +1,10 @@
+{
+  "version": "independent",
+  "packages": ["order-service", "product-service", "user-service"],
+  "npmClient": "npm",
+  "command": {
+    "publish": {
+      "conventionalCommits": true
+    }
+  }
+}

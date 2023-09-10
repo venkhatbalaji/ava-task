@@ -5,7 +5,7 @@ Projects rely on various dependencies. To simplify installation, I used Lerna. R
 To install Lerna run 
 
 ```bash
-$ npm run bootsrap
+$ npm run bootstrap
 ```
 
 ### Run Project
